@@ -1,0 +1,23 @@
+/* body{
+    background-color: blueviolet;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: rgb(255, 251, 0);
+    margin-top: 30px;
+    height: 500px;
+} */
+#te{
+    font-size: 70px;
+    font-weight:bolder;
+}
+#btn:hover{
+   background-color: rgb(3, 155, 3);
+}
+#output{
+    font-size: 40px;
+}
+#auther{
+    font-size: 25px;
+}
